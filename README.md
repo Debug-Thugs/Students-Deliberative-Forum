@@ -13,3 +13,15 @@ The year of 2020 will definitely be remembered for the Corona Virus outbreak and
 5) Important issues and doubts can be easily shared and solutions to such issues can be shared through this portal.
 
 6) It can ensure that solutions to doubts can be available at any time and can be accessed later.
+
+![WhatsApp Image 2020-11-23 at 8 53 23 PM](https://user-images.githubusercontent.com/74778810/99980213-fe203000-2dcd-11eb-8882-ee3c3604c922.jpeg)
+![WhatsApp Image 2020-11-23 at 8 30 28 PM](https://user-images.githubusercontent.com/74778810/99980454-44758f00-2dce-11eb-8315-c8f5c48cdb7c.jpeg)
+![WhatsApp Image 2020-11-23 at 8 30 29 PM](https://user-images.githubusercontent.com/74778810/99980522-58b98c00-2dce-11eb-9063-53aebdea5c4d.jpeg)
+![WhatsApp Image 2020-11-23 at 8 30 30 PM](https://user-images.githubusercontent.com/74778810/99980649-7ab30e80-2dce-11eb-9b2b-756d1abbdc8e.jpeg)
+![WhatsApp Image 2020-11-23 at 8 30 27 PM](https://user-images.githubusercontent.com/74778810/99980700-8dc5de80-2dce-11eb-84ad-565693bd262a.jpeg)
+![WhatsApp Image 2020-11-23 at 8 30 30 PM (1)](https://user-images.githubusercontent.com/74778810/99980776-a0d8ae80-2dce-11eb-84b2-18700c44deea.jpeg)
+![WhatsApp Image 2020-11-23 at 8 30 31 PM](https://user-images.githubusercontent.com/74778810/99980844-b51cab80-2dce-11eb-8691-ed15dfd5ff85.jpeg)
+![WhatsApp Image 2020-11-23 at 8 30 28 PM (1)](https://user-images.githubusercontent.com/74778810/99980923-c960a880-2dce-11eb-89eb-de746a6dddbb.jpeg)
+
+
+
