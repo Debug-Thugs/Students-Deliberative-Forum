@@ -14,6 +14,9 @@ The year of 2020 will definitely be remembered for the Corona Virus outbreak and
 
 6) It can ensure that solutions to doubts can be available at any time and can be accessed later.
 
+## SOFTWARES USED
+For our project, we are using a platform called XAMPP. It is a free end open-source cross-platform web server solution stack package. On the front-end we are using HTML ( Hypertext Markup Language) and CSS (Cascading Style Sheets) and for the back-end we are using PHP (PHP: Hypertext Preprocessor). The database used here is MySQL. It is an open-source relational database management system (RDBMS). Its name is a combination of "My", the name of co-founder Michael Widenius's daughter, and "SQL", the abbreviation for Structured Query Language.
+
 ![WhatsApp Image 2020-11-23 at 8 53 23 PM](https://user-images.githubusercontent.com/74778810/99980213-fe203000-2dcd-11eb-8882-ee3c3604c922.jpeg)
 ![WhatsApp Image 2020-11-23 at 8 30 28 PM](https://user-images.githubusercontent.com/74778810/99980454-44758f00-2dce-11eb-8315-c8f5c48cdb7c.jpeg)
 ![WhatsApp Image 2020-11-23 at 8 30 29 PM](https://user-images.githubusercontent.com/74778810/99980522-58b98c00-2dce-11eb-9063-53aebdea5c4d.jpeg)
